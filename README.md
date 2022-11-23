@@ -2,7 +2,7 @@
 Java Assesment 
 
 ## About me
-### Vishwajit Jadhav
+### Vishwajeet Jadhav
 ### Roll No. - 33
 ### PRN - 1132220525
 
